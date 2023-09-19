@@ -21,7 +21,7 @@ body {
 
 fieldset {
     border: 2px solid #00446e;
-    padding: 20px;
+    padding: 20px auto;
     max-width: auto;
     margin-top: 5px;
 }
